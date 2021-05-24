@@ -1,0 +1,18 @@
+C:\Users\Olga\source\repos\Upload It!\bin\Debug\net5.0-windows\Upload It!.exe
+C:\Users\Olga\source\repos\Upload It!\bin\Debug\net5.0-windows\Upload It!.deps.json
+C:\Users\Olga\source\repos\Upload It!\bin\Debug\net5.0-windows\Upload It!.runtimeconfig.json
+C:\Users\Olga\source\repos\Upload It!\bin\Debug\net5.0-windows\Upload It!.runtimeconfig.dev.json
+C:\Users\Olga\source\repos\Upload It!\bin\Debug\net5.0-windows\Upload It!.dll
+C:\Users\Olga\source\repos\Upload It!\bin\Debug\net5.0-windows\ref\Upload It!.dll
+C:\Users\Olga\source\repos\Upload It!\bin\Debug\net5.0-windows\Upload It!.pdb
+C:\Users\Olga\source\repos\Upload It!\obj\Debug\net5.0-windows\Upload It!.csprojAssemblyReference.cache
+C:\Users\Olga\source\repos\Upload It!\obj\Debug\net5.0-windows\Upload_It_.Form1.resources
+C:\Users\Olga\source\repos\Upload It!\obj\Debug\net5.0-windows\Upload It!.csproj.GenerateResource.cache
+C:\Users\Olga\source\repos\Upload It!\obj\Debug\net5.0-windows\Upload It!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olga\source\repos\Upload It!\obj\Debug\net5.0-windows\Upload It!.AssemblyInfoInputs.cache
+C:\Users\Olga\source\repos\Upload It!\obj\Debug\net5.0-windows\Upload It!.AssemblyInfo.cs
+C:\Users\Olga\source\repos\Upload It!\obj\Debug\net5.0-windows\Upload It!.csproj.CoreCompileInputs.cache
+C:\Users\Olga\source\repos\Upload It!\obj\Debug\net5.0-windows\Upload It!.dll
+C:\Users\Olga\source\repos\Upload It!\obj\Debug\net5.0-windows\ref\Upload It!.dll
+C:\Users\Olga\source\repos\Upload It!\obj\Debug\net5.0-windows\Upload It!.pdb
+C:\Users\Olga\source\repos\Upload It!\obj\Debug\net5.0-windows\Upload It!.genruntimeconfig.cache
